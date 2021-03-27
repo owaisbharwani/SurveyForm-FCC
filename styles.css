@@ -1,0 +1,55 @@
+body{
+  background-color: lightblue;
+  color: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+#titles{
+  text-align: center;
+  margin: 30px;
+}
+
+form{
+  width:50%;
+  background-color: blue;
+  margin: 50px auto 0 auto;
+  padding: 25px 15px;
+}
+
+.form-grouping{
+  width:80%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+label{
+  font-size: 14pt;
+  display: block;
+  padding-bottom: 7px;
+}
+
+.select-text{
+  font-size:11pt;
+}
+
+
+.input-box{
+  width: 100%;
+  border-radius: 5px;
+}
+
+#submit{
+  border-style: solid;
+  border-color: lightgreen;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-color: green;
+  color: white;
+  padding:10px;
+  width:90%;
+}
